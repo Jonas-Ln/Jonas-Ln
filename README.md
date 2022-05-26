@@ -7,6 +7,7 @@
 + Interests: Data Science, Programming
 + Currently Learning: Python, Machine Learning & Tableau
 
+
 ### Social Media:
 
 [![website](./twitter-dark.svg)](https://twitter.com/Jonas97Le#gh-dark-mode-only)
