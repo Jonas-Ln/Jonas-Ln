@@ -14,7 +14,7 @@
 &nbsp;&nbsp;
 [![website](./linkedin-dark.svg)](https://linkedin.com/in/jonas-lenz-467080210/#gh-dark-mode-only)
 
-### Github Stats:
+### GitHub Stats:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Ln&layout=compact&theme=radical)](https://github.com/Jonas-Ln/github-readme-stats)
 
