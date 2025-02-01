@@ -3,7 +3,7 @@
 [![Capstone Case Study Jonas Lenz](https://img.shields.io/static/v1?label=&message=My_Latest_Project&color=blue&style=for-the-badge&logo=Github)](https://jonas-ln.github.io/Case-Study-Cyclistic-Jonas-L/)
 
 ### About me:
-+ Status: Student, 24
++ Status: Data and Process Manager at SCHUFA Holding AG, 27
 + Interests: Data Science, Programming
 + Currently Learning: Python, Machine Learning & Tableau
 
